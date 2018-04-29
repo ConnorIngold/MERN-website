@@ -1,0 +1,26 @@
+{
+	"name": "full-stack-javascript-website",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"engines": {
+		"node": "8.11.1",
+		"npm": "5.6.0"
+	},
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/killercarwash/MERN-website.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/killercarwash/MERN-website/issues"
+	},
+	"homepage": "https://github.com/killercarwash/MERN-website#readme",
+	"dependencies": {
+		"express": "^4.16.3"
+	}
+}
